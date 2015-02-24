@@ -1,1 +1,1 @@
-localStorage.setItem("serverVersion", "2.0.1");
+localStorage.setItem("serverVersion", "2.0.2");
